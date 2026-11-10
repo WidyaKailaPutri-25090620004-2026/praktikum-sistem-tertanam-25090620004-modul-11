@@ -1,0 +1,14 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../color_bar_pattern.vhd" \
+"../../../../vga_sync.vhd" \
+"../../../../js11_vga.srcs/sources_1/new/js11_top.vhd" \
+"../../../../vga_sync_dual.vhd" \
+"../../../../tb_js11_top.vhd" \
+"../../../../tb_vga_sync.vhd" \
+"../../../../tb_tugas1.vhd" \
+"../../../../tb_tugas2.vhd" \
+"../../../../tb_tugas3.vhd" \
+
+# Do not sort compile order
+nosort

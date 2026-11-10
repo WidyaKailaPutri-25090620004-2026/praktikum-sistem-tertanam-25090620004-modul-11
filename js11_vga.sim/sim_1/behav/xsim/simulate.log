@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+Note: 800x600: Hsync OK
+Time: 47487500 ps  Iteration: 2  Process: /tb_tugas3/p_h1  File: D:/SEMESTER 3/PRAKTIK SISTEM TERTANAM/js11_vga/tb_tugas3.vhd
+Note: 640x480: Hsync OK
+Time: 58300 ns  Iteration: 2  Process: /tb_tugas3/p_h0  File: D:/SEMESTER 3/PRAKTIK SISTEM TERTANAM/js11_vga/tb_tugas3.vhd
+Note: 800x600: Vsync OK
+Time: 32445687500 ps  Iteration: 2  Process: /tb_tugas3/p_v1  File: D:/SEMESTER 3/PRAKTIK SISTEM TERTANAM/js11_vga/tb_tugas3.vhd
+Note: 640x480: Vsync OK
+Time: 32480060 ns  Iteration: 2  Process: /tb_tugas3/p_v0  File: D:/SEMESTER 3/PRAKTIK SISTEM TERTANAM/js11_vga/tb_tugas3.vhd
+Note: 800x600: Hsync OK
+Time: 47487500 ps  Iteration: 2  Process: /tb_tugas3/p_h1  File: D:/SEMESTER 3/PRAKTIK SISTEM TERTANAM/js11_vga/tb_tugas3.vhd
+Note: 640x480: Hsync OK
+Time: 58300 ns  Iteration: 2  Process: /tb_tugas3/p_h0  File: D:/SEMESTER 3/PRAKTIK SISTEM TERTANAM/js11_vga/tb_tugas3.vhd
+Note: 800x600: Hsync OK
+Time: 47487500 ps  Iteration: 2  Process: /tb_tugas3/p_h1  File: D:/SEMESTER 3/PRAKTIK SISTEM TERTANAM/js11_vga/tb_tugas3.vhd
+Note: 640x480: Hsync OK
+Time: 58300 ns  Iteration: 2  Process: /tb_tugas3/p_h0  File: D:/SEMESTER 3/PRAKTIK SISTEM TERTANAM/js11_vga/tb_tugas3.vhd

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/SEMESTER 3/PRAKTIK SISTEM TERTANAM/js11_vga/vga_sync_dual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'vga_sync_dual'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/SEMESTER 3/PRAKTIK SISTEM TERTANAM/js11_vga/tb_tugas3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_tugas3'

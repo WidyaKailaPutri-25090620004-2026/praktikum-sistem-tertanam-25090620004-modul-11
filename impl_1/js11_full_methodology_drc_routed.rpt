@@ -1,0 +1,42 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2026.1 (win64) Build 6511674 Tue Jun 16 11:02:23 MDT 2026
+| Date         : Tue Nov 10 13:37:01 2026
+| Host         : LAPTOP-FAOIJ8RV running 64-bit major release  (build 9200)
+| Command      : report_methodology -file js11_full_methodology_drc_routed.rpt -pb js11_full_methodology_drc_routed.pb -rpx js11_full_methodology_drc_routed.rpx
+| Design       : js11_full
+| Device       : xc7a35tcpg236-1
+| Speed File   : -1
+| Design State : Fully Routed
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Report Methodology
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+             Max checks: <unlimited>
+             Checks found: 1
++--------+----------+--------------------------------------------------------+--------+
+| Rule   | Severity | Description                                            | Checks |
++--------+----------+--------------------------------------------------------+--------+
+| XDCC-7 | Warning  | Scoped Clock constraint overwritten on the same source | 1      |
++--------+----------+--------------------------------------------------------+--------+
+
+2. REPORT DETAILS
+-----------------
+XDCC-7#1 Warning
+Scoped Clock constraint overwritten on the same source  
+A new clock constraint create_clock overrides a previous scoped clock constraint defined on the same source. It is not recommended to override a scoped (typically an IP) clock constraint and could result in unexpected behaviors.
+New: create_clock -period 10.000 -name sys_clk [get_ports clk] (Source: D:/SEMESTER 3/PRAKTIK SISTEM TERTANAM/js11_vga/js11_vga.srcs/constrs_1/imports/js11_vga/js11.xdc (Line: 3))
+Previous: create_clock -period 10.000 [get_ports clk] (Source: d:/SEMESTER 3/PRAKTIK SISTEM TERTANAM/js11_vga/js11_vga.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.xdc (Line: 53))
+Related violations: <none>
+
+

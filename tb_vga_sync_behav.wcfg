@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_tugas3_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_tugas3" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="15,480.275000 us"></ZoomStartTime>
+      <ZoomEndTime time="16,059.275001 us"></ZoomEndTime>
+      <Cursor1Time time="15,900.775000 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="210"></NameColumnWidth>
+      <ValueColumnWidth column_width="87"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/tb_tugas3/clk40" type="logic">
+      <obj_property name="ElementShortName">clk40</obj_property>
+      <obj_property name="ObjectShortName">clk40</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tugas3/clk25" type="logic">
+      <obj_property name="ElementShortName">clk25</obj_property>
+      <obj_property name="ObjectShortName">clk25</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tugas3/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tugas3/hs1" type="logic">
+      <obj_property name="ElementShortName">hs1</obj_property>
+      <obj_property name="ObjectShortName">hs1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tugas3/vs1" type="logic">
+      <obj_property name="ElementShortName">vs1</obj_property>
+      <obj_property name="ObjectShortName">vs1</obj_property>
+      <obj_property name="CustomSignalColor">#00FF00</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tugas3/von1" type="logic">
+      <obj_property name="ElementShortName">von1</obj_property>
+      <obj_property name="ObjectShortName">von1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tugas3/hs0" type="logic">
+      <obj_property name="ElementShortName">hs0</obj_property>
+      <obj_property name="ObjectShortName">hs0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tugas3/vs0" type="logic">
+      <obj_property name="ElementShortName">vs0</obj_property>
+      <obj_property name="ObjectShortName">vs0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tugas3/von0" type="logic">
+      <obj_property name="ElementShortName">von0</obj_property>
+      <obj_property name="ObjectShortName">von0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tugas3/hc1" type="other">
+      <obj_property name="ElementShortName">hc1</obj_property>
+      <obj_property name="ObjectShortName">hc1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tugas3/hc0" type="other">
+      <obj_property name="ElementShortName">hc0</obj_property>
+      <obj_property name="ObjectShortName">hc0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tugas3/vc1" type="other">
+      <obj_property name="ElementShortName">vc1</obj_property>
+      <obj_property name="ObjectShortName">vc1</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tugas3/vc0" type="other">
+      <obj_property name="ElementShortName">vc0</obj_property>
+      <obj_property name="ObjectShortName">vc0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tugas3/T40" type="other">
+      <obj_property name="ElementShortName">T40</obj_property>
+      <obj_property name="ObjectShortName">T40</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tugas3/T25" type="other">
+      <obj_property name="ElementShortName">T25</obj_property>
+      <obj_property name="ObjectShortName">T25</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_tugas3/TOL" type="other">
+      <obj_property name="ElementShortName">TOL</obj_property>
+      <obj_property name="ObjectShortName">TOL</obj_property>
+   </wvobject>
+</wave_config>

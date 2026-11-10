@@ -1,0 +1,11 @@
+sv xpm -i "C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef" --include "../../ipstatic" \
+"C:/AMDDesignTools/2026.1/Vivado/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv" \
+
+verilog xil_defaultlib -i "C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef" --include "../../ipstatic" \
+"../../../js11_vga.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" \
+"../../../js11_vga.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
